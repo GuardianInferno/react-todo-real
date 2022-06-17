@@ -3,7 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-https://ibaslogic.com/react-form-handling/
+https://ibaslogic.com/persisting-react-state-in-local-storage/
+
 https://github.com/Ibaslogic/react-todo-project/blob/main/src/classBased/components/TodoContainer.js
 
 ## Available Scripts
