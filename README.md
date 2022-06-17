@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+https://ibaslogic.com/react-form-handling/
+https://github.com/Ibaslogic/react-todo-project/blob/main/src/classBased/components/TodoContainer.js
+
 ## Available Scripts
 
 In the project directory, you can run:
