@@ -7,6 +7,8 @@ https://ibaslogic.com/persisting-react-state-in-local-storage/
 
 https://github.com/Ibaslogic/react-todo-project/blob/main/src/classBased/components/TodoContainer.js
 
+https://www.framer.com/docs/examples/
+
 ## Available Scripts
 
 In the project directory, you can run:
