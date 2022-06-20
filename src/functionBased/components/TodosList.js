@@ -1,6 +1,6 @@
 import React from 'react'
 import TodoItem from './TodoItem'
-import { motion } from 'framer-motion'
+
 
 const TodosList = props =>{
         return(

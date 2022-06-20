@@ -6,6 +6,7 @@ import { v4 as uuidv4} from 'uuid';
 
 
 
+
 const TodoContainer = () => {
     const[todos, setTodos] = useState(getInitialTodos())
 
@@ -66,8 +67,10 @@ const TodoContainer = () => {
 
     
     return(
+        <>
         <div className="container">
             <div className="inner">
+                
                 <Header />
                 <InputTodo addTodoProps={addTodoItem} />
                 <TodosList
@@ -78,6 +81,8 @@ const TodoContainer = () => {
                 />
             </div>
         </div>
+        </>
+
     )
 
 }
